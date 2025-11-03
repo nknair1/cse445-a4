@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>The Plaza</Name>
+    <Phone>(212) 759-3000</Phone>
+    <Address NearestAirport="LGA">
+      <Number>768</Number>
+      <Street>5th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Beverly Hills Hotel</Name>
+    <Phone>(310) 276-2251</Phone>
+    <Address NearestAirport="LAX">
+      <Number>9641</Number>
+      <Street>Sunset Blvd</Street>
+      <City>Beverly Hills</City>
+      <State>CA</State>
+      <Zip>90210</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>The Langham, Chicago</Name>
+    <Phone>(312) 923-9988</Phone>
+    <Address NearestAirport="ORD">
+      <Number>330</Number>
+      <Street>N Wabash Ave</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60611</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6">
+    <Name>Fairmont Copley Plaza</Name>
+    <Phone>(617) 267-5300</Phone>
+    <Phone>(800) 441-1414</Phone>
+    <Address NearestAirport="BOS">
+      <Number>138</Number>
+      <Street>St James Ave</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02116</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>W Austin</Name>
+    <Phone>(512) 542-3600</Phone>
+    <Address NearestAirport="AUS">
+      <Number>200</Number>
+      <Street>Lavaca St</Street>
+      <City>Austin</City>
+      <State>TX</State>
+      <Zip>78701</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>The Ritz-Carlton, New Orleans</Name>
+    <Phone>(504) 524-1331</Phone>
+    <Address NearestAirport="MSY">
+      <Number>921</Number>
+      <Street>Canal St</Street>
+      <City>New Orleans</City>
+      <State>LA</State>
+      <Zip>70112</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8">
+    <Name>Four Seasons Hotel Seattle</Name>
+    <Phone>(206) 749-7000</Phone>
+    <Address NearestAirport="SEA">
+      <Number>99</Number>
+      <Street>Union St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>The Broadmoor</Name>
+    <Phone>(800) 634-7711</Phone>
+    <Address NearestAirport="COS">
+      <Number>1</Number>
+      <Street>Lake Ave</Street>
+      <City>Colorado Springs</City>
+      <State>CO</State>
+      <Zip>80906</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.3">
+    <Name>Kimpton Hotel Palomar South Beach</Name>
+    <Phone>(305) 604-1000</Phone>
+    <Address NearestAirport="MIA">
+      <Number>1750</Number>
+      <Street>Alton Rd</Street>
+      <City>Miami Beach</City>
+      <State>FL</State>
+      <Zip>33139</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>MGM Grand</Name>
+    <Phone>(702) 891-1111</Phone>
+    <Phone>(877) 880-0880</Phone>
+    <Address NearestAirport="LAS">
+      <Number>3799</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
